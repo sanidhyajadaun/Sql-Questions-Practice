@@ -10,3 +10,6 @@
 7. [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)
 8. [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
 9. [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)
+10. [Swap Salary](https://leetcode.com/problems/swap-salary/)
+11. [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/)
+12. [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/)
