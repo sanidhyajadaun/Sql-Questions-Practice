@@ -13,3 +13,6 @@
 10. [Swap Salary](https://leetcode.com/problems/swap-salary/)
 11. [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/)
 12. [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/)
+13. [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/)
+14. [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/description/)
+15. [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/description/)
