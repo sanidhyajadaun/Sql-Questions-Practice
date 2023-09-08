@@ -51,3 +51,6 @@
 48. [Exchange Seats](https://leetcode.com/problems/exchange-seats/description/?envType=study-plan-v2&envId=top-sql-50)
 49. [Movie Rating](https://leetcode.com/problems/movie-rating/description/?envType=study-plan-v2&envId=top-sql-50)
 50. [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/description/?envType=study-plan-v2&envId=top-sql-50)
+51. [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)
+52. [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)
+53. [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)
